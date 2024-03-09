@@ -33,7 +33,7 @@ Here's a walkthrough of implemented required features:
 <img src='https://github.com/obianuju1/SpongeBob-Flashcards/assets/83367389/49c0f0ee-e405-4fc7-b062-66f8ff7ac24f' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  LICECap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
