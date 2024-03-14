@@ -28,10 +28,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a 
+walkthrough of implemented user stories:
 
 
-<img src='https://github.com/obianuju1/SpongeBob-Flashcards/assets/83367389/7d1b97c3-5586-4702-80f1-ec6b201a91e8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/obianuju1/SpongeBob-Flashcards/assets/83367389/e76c3b1f-e4f1-430c-94ec-fac2a22d2273' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  LiceCap
