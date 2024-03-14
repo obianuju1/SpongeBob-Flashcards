@@ -1,8 +1,8 @@
 # Web Development Project 3 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Obianuju Enekebe**
 
-This web app: **insert description**
+This web app: **Trivia based on Spongebob**
 
 Time spent: **5** hours spent in total
 
@@ -29,9 +29,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Spongebob Flashcards 2](https://github.com/obianuju1/SpongeBob-Flashcards/assets/83367389/7d1b97c3-5586-4702-80f1-ec6b201a91e8)
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://github.com/obianuju1/SpongeBob-Flashcards/assets/83367389/7d1b97c3-5586-4702-80f1-ec6b201a91e8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  LiceCap
